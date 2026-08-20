@@ -1,14 +1,14 @@
 <div align="center">
   
   <!-- Dynamic Banner Matching the Reference Style -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMCCTTVjkTVmcJUfIfnFz3QfFNNqxvfn4pzgeU4q1NQ&s=10" alt="Software Engineering Banner" />
+  <img src="" alt="Software Engineering Banner" />
 
   <!-- Social Icons & Contacts -->
   <p align="center">
     <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
     <a href="mailto:YOUR_PERSONAL_EMAIL@gmail.com" target="_blank"><img src="https://shields.io" alt="Personal Email"></a>
     <a href="mailto:YOUR_EDUCATIONAL_EMAIL@discente.ufg.br" target="_blank"><img src="https://shields.io" alt="UFG Email"></a>
-    <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
+    <a href="https://instagram.com/erickluiz_77" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
     <a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
   </p>
 
