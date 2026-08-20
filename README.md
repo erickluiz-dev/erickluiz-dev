@@ -1,4 +1,4 @@
-## Hi there 👋
+HI! I'am Erick Luiz dos Santos
 
 <!--
 **erickluiz-dev/erickluiz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
