@@ -1,18 +1,21 @@
 <div align="center">
-  
-  <!-- Dynamic Banner Matching the Reference Style -->
-  <img src="https://vercel.app|%20UFG&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Software Engineering Banner" />
 
-  <!-- Social Icons & Contacts -->
-  <p align="center">
-    <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-    <a href="mailto:erickluiz1302@gmail.com" target="_blank"><img src="https://shields.io" alt="Personal Email"></a>
-    <a href="mailto:erickluiz@discente.ufg.br" target="_blank"><img src="https://shields.io" alt="UFG Email"></a>
-    <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
-    <a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
+  <!-- Title block -->
+  <h1> Erick Luiz dos Santos </h1>
+  <p><strong>Software Engineering Student at UFG (Universidade Federal de Goiás)</strong></p>
+
+  <!-- Clean Minimalist Contacts -->
+  <p>
+    <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a> | 
+    <a href="mailto:erickluiz1302@gmail.com">📧 Personal Email</a> | 
+    <a href="mailto:erickluiz@discente.ufg.br">🎓 Academic Email</a> | 
+    <a href="https://instagram.com" target="_blank">📸 Instagram</a> | 
+    <a href="https://tiktok.com" target="_blank">🎵 TikTok</a>
   </p>
 
 </div>
+
+---
 
 ## 🎓 About Me
 
@@ -27,20 +30,21 @@ Hello and welcome to my portfolio! 🚀
 ## 🛠️ Languages & Technologies
 
 ### 🌐 Front-End Development
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="TypeScript" />
+* **HTML5** / **CSS3** / **TypeScript**
 
 ### ⚙️ Back-End & Systems Programming
-<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="GoLang" />
+* **Java** / **C** / **Python** / **GoLang**
 
 ### 🗄️ Database Management
-<img src="https://shields.io" alt="SQL" />
+* **SQL**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Dark themed metrics matching the example layout -->
+  <p><em>To display real-time analytics graphics here, replace <b>YOUR_ACTUAL_GITHUB_USERNAME</b> in the links below inside your editor:</em></p>
+
   <img height="180em" src="https://vercel.app" alt="GitHub Metrics" />
   <img height="180em" src="https://vercel.app" alt="Top Languages Used" />
 </div>
