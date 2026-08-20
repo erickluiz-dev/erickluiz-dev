@@ -1,16 +1,46 @@
-HI! I'am Erick Luiz dos Santos
+<div align="center">
+  
+  <!-- Dynamic Banner Matching the Reference Style -->
+  <img src="https://vercel.app|%20UFG&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Software Engineering Banner" />
 
-<!--
-**erickluiz-dev/erickluiz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Social Icons & Contacts -->
+  <p align="center">
+    <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+    <a href="mailto:YOUR_PERSONAL_EMAIL@gmail.com" target="_blank"><img src="https://shields.io" alt="Personal Email"></a>
+    <a href="mailto:YOUR_EDUCATIONAL_EMAIL@discente.ufg.br" target="_blank"><img src="https://shields.io" alt="UFG Email"></a>
+    <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
+    <a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
+  </p>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+
+Hello and welcome to my portfolio! 🚀
+
+* 🏢 **Highlight:** Currently pursuing a Bachelor's Degree in **Software Engineering** at the **Federal University of Goiás (UFG)**.
+* 💡 Focused on developing clean, well-structured backend and frontend solutions following software architecture best practices.
+* 🌱 Deepening my knowledge in algorithms, data structures, and multi-paradigm software development.
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 🌐 Front-End Development
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="TypeScript" />
+
+### ⚙️ Back-End & Systems Programming
+<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="GoLang" />
+
+### 🗄️ Database Management
+<img src="https://shields.io" alt="SQL" />
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Dark themed metrics matching the example layout -->
+  <img height="180em" src="https://vercel.app" alt="GitHub Metrics" />
+  <img height="180em" src="https://vercel.app" alt="Top Languages Used" />
+</div>
