@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Dynamic Banner Matching the Reference Style -->
-  <img src="https://vercel.app|%20UFG&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Software Engineering Banner" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMCCTTVjkTVmcJUfIfnFz3QfFNNqxvfn4pzgeU4q1NQ&s=10" alt="Software Engineering Banner" />
 
   <!-- Social Icons & Contacts -->
   <p align="center">
