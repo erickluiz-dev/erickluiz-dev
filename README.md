@@ -1,4 +1,4 @@
-# Olá, eu sou Erick Luiz! 👋
+# Hello World! I'am Erick Luiz! 👋
 
 ### `Estudante de Engenharia de Software`
 
@@ -46,89 +46,41 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na �
 
 ---
 
-### 💻 Linguagens
+💻 Tecnologias
+⚙️ Backend
 
-<p align="left">
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" alt="Java" title="Java" />
 
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
- width="35"
- alt="Java"
- title="Java"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" alt="C" title="C" />
 
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
- width="35"
- alt="C"
- title="C"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++" title="C++" />
 
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
- width="35"
- alt="C++"
- title="C++"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="35" alt="Go" title="Go" />
 
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
- width="35"
- alt="Go"
- title="Go"
-/>
-
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
- width="35"
- alt="Python"
- title="Python"
-/>
-
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
- width="35"
- alt="HTML"
- title="HTML"
-/>
-
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
- width="35"
- alt="CSS"
- title="CSS"
-/>
-
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
- width="35"
- alt="TypeScript"
- title="TypeScript"
-/>
-
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
- width="35"
- alt="SQL"
- title="SQL"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" title="Python" />
 
 </p>
 
+🎨 Frontend
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML" title="HTML" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS" title="CSS" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" alt="TypeScript" title="TypeScript" />
+
+</p>
+
+🗄️ Banco de Dados
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="SQL" title="SQL" /> </p>
 ---
 
 ### 🚀 Atualmente estudando
 
-* **Engenharia de Software**
-* **Desenvolvimento Backend**
-* **APIs REST**
-* **Python**
-* **Go**
-* **Java**
-* **C e C++**
-* **SQL e Bancos de Dados**
-* **Arquitetura de Software**
-* **Git e GitHub**
+* **Engenharia de Software** * **Desenvolvimento Backend** * **APIs REST** * **Python** * **Go** * **Java** * **C** * **SQL e Bancos de Dados**
+* **Arquitetura de Computadores** * **Processos de Engenharia de Software** * **Modelagem de Software** * **Algorítimos e Estruturas de Dados 1**
+* **Probabilidade e Estastística** * **Git e GitHub**
 
 ---
 
