@@ -1,14 +1,14 @@
 <div align="center">
   
   <!-- Dynamic Banner Matching the Reference Style -->
-  <img src="" alt="Software Engineering Banner" />
+  <img src="https://vercel.app|%20UFG&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Software Engineering Banner" />
 
   <!-- Social Icons & Contacts -->
   <p align="center">
     <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
     <a href="mailto:erickluiz1302@gmail.com" target="_blank"><img src="https://shields.io" alt="Personal Email"></a>
     <a href="mailto:erickluiz@discente.ufg.br" target="_blank"><img src="https://shields.io" alt="UFG Email"></a>
-    <a href="https://instagram.com/" target="_blank"><img src="https://https://instagram.com/erickluiz_77" alt="Instagram"></a>
+    <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
     <a href="https://tiktok.com" target="_blank"><img src="https://shields.io" alt="TikTok"></a>
   </p>
 
