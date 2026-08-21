@@ -83,9 +83,8 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na �
 
 
 **Arquitetura de Computadores** · **Processos de Engenharia de Software** · 
-**Modelagem de Software** · **Algoritmos e Estruturas de Dados 1**
-**Probabilidade e Estatística** 
+**Modelagem de Software** · 
+**Algoritmos e Estruturas de Dados 1**
+· **Probabilidade e Estatística** 
 
 </div>
-
----
