@@ -30,15 +30,15 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na �
 
   <a href="mailto:erickluiz@discente.ufg.br">
     <img
-      src="https://img.shields.io/badge/EMAIL%20%7C%20erickluiz%40discente.ufg.br-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email | erickluiz@discente.ufg.br"
+      src="https://img.shields.io/badge/EMAIL%20%7C%20erickluiz%40discente.ufg.br-D14836?style=for-the-badge&logo=gl&logoColor=white"
+      alt="erickluiz@discente.ufg.br"
     />
   </a>
 
   <a href="mailto:erickluiz1302@gmail.com">
     <img
       src="https://img.shields.io/badge/EMAIL%20%7C%20erickluiz1302%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email | erickluiz1302@gmail.com"
+      alt="erickluiz1302@gmail.com"
     />
   </a>
 
@@ -101,30 +101,4 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na �
 />
 
 </p>
-
----
-
-### 📌 Projetos
-
-Alguns dos projetos que venho desenvolvendo durante minha formação:
-
-* 🏥 **Sistema de Agendamento Médico**
-  Aplicação web para gerenciamento de pacientes, médicos e consultas.
-
-* ⚽ **Bolão da Copa do Mundo**
-  Aplicação com frontend em TypeScript e backend desenvolvido com Python/FastAPI.
-
-* 📦 **Sistema de Contagem de Objetos**
-  Projeto utilizando Python, FastAPI, OpenCV e YOLO para detecção e contagem de objetos.
-
----
-
-### 🎯 Objetivo
-
-> Tornar-me um desenvolvedor **Backend**, construindo sistemas eficientes, escaláveis e bem estruturados, enquanto continuo evoluindo minha base em **Engenharia de Software**.
-
----
-
-<p align="center">
-  <i>"Sempre aprendendo, construindo e evoluindo."</i>
-</p>
+  
