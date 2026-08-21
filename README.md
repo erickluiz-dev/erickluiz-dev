@@ -53,8 +53,6 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na Ã
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35" alt="C" title="C" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++" title="C++" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="35" alt="Go" title="Go" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" title="Python" />
