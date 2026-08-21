@@ -89,28 +89,3 @@ Tenho interesse em **desenvolvimento de sistemas**, com foco principalmente na �
 </div>
 
 ---
-
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=erickluiz-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickluiz-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
- alt="Linguagens mais utilizadas"
-/>
-
-</p>
-
-</div>
-
----
-
-
